@@ -31,3 +31,6 @@ build/
 dist/
 cmake-build-*/
 
+# Project-specific build output
+bin/
+
